@@ -4,11 +4,14 @@ A simple example of PyQt6
 
 ## Tools Used
 
-| Tool     |  Version |
-|:---------|---------:|
-| Python   |   3.13.2 |
-| PyCharm  | 2024.3.5 |
-| VSCode   |   1.99.0 |
+| Tool      |  Version |
+|:----------|---------:|
+| Python    |   3.13.2 |
+| PyQt6     |    6.8.1 |
+| PyQt6-Qt6 |    6.9.0 |
+| PyQt6-sip |  13.10.0 |
+| PyCharm   | 2024.3.5 |
+| VSCode    |   1.99.0 |
 
 ## Change History
 
