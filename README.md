@@ -6,8 +6,8 @@ A simple example of PyQt6
 
 | Tool      |  Version |
 |:----------|---------:|
-| Python    |   3.13.2 |
-| PyQt6     |    6.8.1 |
+| Python    |   3.13.3 |
+| PyQt6     |    6.9.0 |
 | PyQt6-Qt6 |    6.9.0 |
 | PyQt6-sip |  13.10.0 |
 | PyCharm   | 2024.3.5 |
@@ -15,9 +15,10 @@ A simple example of PyQt6
 
 ## Change History
 
-| Date       | Description                        |
-|:-----------|:-----------------------------------|
-| 2025-04-08 | upgrade to latest software version |
+| Date       | Description                          |
+|:-----------|:-------------------------------------|
+| 2025-04-08 | upgrade to latest software version   |
+| 2025-04-14 | verify code works with python 3.13.3 |
 
 ## References
 * []()
